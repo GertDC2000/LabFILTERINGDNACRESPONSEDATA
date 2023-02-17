@@ -6,4 +6,4 @@ An Vm was used whit the help of studio code.
 ## Task troubleshooting
 The bigest problem was finding the right documentation for the code.
 ## Task verification
-![screenshot proof]()
+![screenshot proof](/screenshot.png)
